@@ -1,0 +1,7 @@
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\geometria.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\Gravador se apagar tu é '-'.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\Musica Se Mecher Tu é.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\calculadora.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\Main.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\fisica.kt
+C:\Users\QI\Desktop\pasta2\src\main\kotlin\class.kt
